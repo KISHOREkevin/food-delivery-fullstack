@@ -29,25 +29,29 @@ https://github.com/KISHOREkevin/food-delivery-fullstack/assets/98908744/7a486219
 * Bcrypt
 * Material UI
 * Dotenv
+* Cloudinary
   
 # Project Usage (online)
 * First go to backend api link to start the api (its deployed in render.com free tier , hence it will spun down after inactive of 15 seconds)
   * https://eat-easy-fullstack-backend.onrender.com/
 
 * After loading the api then go to project link
-    * https://silly-bunny-6ef54f.netlify.app/
+    * https://boisterous-meerkat-9ba59f.netlify.app/
 
 # Project Usage (offline)
 * clone the repository `git clone https://github.com/KISHOREkevin/food-delivery-fullstack.git`
 * inside server folder and client folder create `.env` file
 * in `server folder` ,enter the following code in the `.env` file :
-     * `MONGO_URL="Your-mongodb-url`
+     * `MONGO_URL="Your-mongodb-url"`
      * `PORT=Your-port-number`
      * `SALT_ROUNDS=10`
+     * `CLOUD_NAME="Your-cloudinary-cloud-name"`
+     * `CLOUD_API_KEY="Your-cloudinary-api-key"`
+     * `CLOUD_API_SECRET="Your-cloudinary-api-secret`
+       
 * In `client folder` , enter the following code in the `.env` file:
      * `REACT_APP_BASE_URL="backend-url/api"`
-     * `REACT_APP_HOTEL_IMAGE_URL="backend-url/uploads/hotel/"`
-     * `REACT_APP_FOOD_IMAGE_URL="backend-url/uploads/food"`
+       
 * then inside server folder , run `npm install && npm start`
 * then inside client folder, run `npm install && npm start`
 * then enter the url in the browser, `http://localhost:3000`
