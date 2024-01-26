@@ -1,9 +1,13 @@
 # Food Delivery Application Project with user Authentication
 
-https://github.com/KISHOREkevin/food-delivery-fullstack/assets/98908744/b4fac3d5-f36b-4355-a265-e75528644ed4
 
 
-https://github.com/KISHOREkevin/food-delivery-fullstack/assets/98908744/cbf5209c-9b8f-4148-8560-153524beb726
+https://github.com/KISHOREkevin/food-delivery-fullstack/assets/98908744/7a0ae80c-efbf-4544-9309-e71b81ed944d
+
+
+https://github.com/KISHOREkevin/food-delivery-fullstack/assets/98908744/7a486219-ddca-4a4a-ba9e-264f9366dd24
+
+
 
 
 * Eat-Easy is the food delivery app which it has functions such as 
